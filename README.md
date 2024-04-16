@@ -19,6 +19,10 @@ The Rubik's Cube Solver App is an innovative iOS application designed to help us
 - **Sprint 4**: Creation of the Solution Guide screen, including the algorithm for solving the cube and presenting the steps to the user.
 - **Sprint 5**: Addition of History and Statistics tracking, providing users with their solving history and performance metrics.
 
+## Video Guide
+
+(https://www.loom.com/share/cc973385b37f4e0aae4f3ab3d72c309d?sid=b7d4a414-cb59-4e1e-9c66-5d7185f6496b).
+
 ### Prerequisites
 - iOS 13.0 or later
 - Compatible with iPhone and iPad
