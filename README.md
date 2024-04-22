@@ -11,11 +11,10 @@ The Rubik's Cube Solver App is an innovative iOS application designed to help us
 
 ## Sprints
 
-- **Sprint 1**: Project setup and integration of Core ML for color recognition.
-- **Sprint 2**: Development of the Welcome and Tutorial screens, along with preliminary design for user interface.
-- **Sprint 3**: Implementation of the camera functionality to capture and analyze the cube's current state.
-- **Sprint 4**: Creation of the Solution Guide screen, including the algorithm for solving the cube and presenting the steps to the user.
-- **Sprint 5**: Addition of History and Statistics tracking, providing users with their solving history and performance metrics.
+- [x] **Sprint 1**: Create UI.
+- [x] **Sprint 2**: Implementation of the camera functionality to capture and analyze the cube's current state.
+- **Sprint 3**: Creation of the Solution Guide screen, including the algorithm for solving the cube and presenting the steps to the user.
+- **Sprint 4**: Addition of History and Statistics tracking, providing users with their solving history and performance metrics.
 
 ## Video Guide
 
