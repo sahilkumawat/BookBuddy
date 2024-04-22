@@ -5,9 +5,9 @@ The Rubik's Cube Solver App is an innovative iOS application designed to help us
 
 ## Main Features
 
-[x] **Camera Functionality**: Allows users to take pictures of their Rubik's Cube for color analysis.
-[] **Timer**: Provides a stopwatch that clocks the user's rubik's cube speed.
-[] **History and Statistics**: Tracks users' solve times and improvement.
+- [x] **Camera Functionality**: Allows users to take pictures of their Rubik's Cube for color analysis.
+- [] **Timer**: Provides a stopwatch that clocks the user's rubik's cube speed.
+- [] **History and Statistics**: Tracks users' solve times and improvement.
 
 ## Sprints
 
