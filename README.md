@@ -1,4 +1,4 @@
-# Book Buddy App
+# Book Buddy
 
 ## Overview
 Book Buddy is a seamless and intuitive iOS application designed for book enthusiasts who want to quickly access detailed information about books using the convenience of their iPhone. This innovative app uses Apple's latest technologies to recognize text from images and fetch corresponding book data using Google's comprehensive Books API.
@@ -58,9 +58,18 @@ Week 10
 - iOS 13.0 or later
 - Compatible with iPhone and iPad
 
+## License
 
-## Contributing
-Contributions to the Rubik's Cube Solver app are welcome. If you have a suggestion to improve this project, please fork the repo and submit a pull request. You can also open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks!
+    Copyright [2024] [Sahil Kumawat]
 
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
+        http://www.apache.org/licenses/LICENSE-2.0
 
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
